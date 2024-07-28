@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>喵? 喵!</title>
+    <updated>2024-07-27T10:00:00.000Z</updated>
+    <id>https://github.com/LS-KR/feed</id>
+
+    <author><name>Elihuso Quigley</name></author>
+
+    <entry>
+        <title>Hello world</title>
+        <content type="html">
+            <![CDATA[<p>Hello World</p>]]>
+        </content>
+        <published>2024-07-27T10:00:00.000Z</published>
+        <updated>2024-07-27T10:00:00.000Z</updated>
+    </entry>
+</feed>
