@@ -20,4 +20,17 @@
         <published>2024-07-27T10:00:00.000Z</published>
         <updated>2024-07-27T10:00:00.000Z</updated>
     </entry>
+    <entry><title>Meow</title><id>Meow</id><content type="html"><![CDATA[<p>写点什么好呢</p>
+<p>刚刚随手写了一个把 markdown 转换为 rss entry 的玩意<br>其实就是简单的用 marked 的 parse 转换成 html 在丢进 CDATA 就好的东西qwq</p>
+<pre><code class="language-typescript">import {marked} from &#39;marked&#39;
+
+export function build(title: string, markdown: string): string {
+  const content = `&lt;![CDATA[${marked(markdown)}]]&gt;`;
+  const summary = `&lt;summary type=&quot;html&quot;&gt;${title}&lt;/summary&gt;`;
+  const now = new Date();
+  return `&lt;entry&gt;&lt;title&gt;${title}&lt;/title&gt;&lt;id&gt;${title}&lt;/id&gt;&lt;content type=&quot;html&quot;&gt;${content}&lt;/content&gt;${summary}&lt;published&gt;${now.toISOString()}&lt;/published&gt;&lt;updated&gt;${now.toISOString()}&lt;/updated&gt;&lt;/entry&gt;`
+}
+</code></pre>
+<p>简单的有些离谱quq</p>
+]]></content><summary type="html">Meow</summary><published>2024-07-28T11:09:27.440Z</published><updated>2024-07-28T11:09:27.440Z</updated></entry>
 </feed>
