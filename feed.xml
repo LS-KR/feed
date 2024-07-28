@@ -2,6 +2,7 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>喵? 喵!</title>
+    <link href="https://raw.githubusercontent.com/LS-KR/feed/master/feed.xml" rel="self"/>
     <updated>2024-07-27T10:00:00.000Z</updated>
     <id>https://github.com/LS-KR/feed</id>
 
