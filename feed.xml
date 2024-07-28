@@ -10,9 +10,13 @@
 
     <entry>
         <title>Hello world</title>
+        <id>Hello world</id>
         <content type="html">
             <![CDATA[<p>Hello World</p>]]>
         </content>
+        <summary type="html">
+            &lt;p&gt;Hello world&lt;/p&gt;
+        </summary>
         <published>2024-07-27T10:00:00.000Z</published>
         <updated>2024-07-27T10:00:00.000Z</updated>
     </entry>
