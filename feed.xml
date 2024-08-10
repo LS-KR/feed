@@ -3,7 +3,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>喵? 喵!</title>
     <link href="https://raw.githubusercontent.com/LS-KR/feed/master/feed.xml" rel="self"/>
-    <updated>2024-08-04T03:12:56.671Z</updated>
+    <updated>2024-08-10T12:25:58.561Z</updated>
     <id>https://github.com/LS-KR/feed</id>
 
     <author><name>Elihuso Quigley</name></author>
@@ -75,4 +75,9 @@ export function build(title: string, markdown: string): string {
 <p>感觉自己八月底又要像去年一样炸掉了呢</p>
 <p>笨蛋<br>要好好的</p>
 ]]></content><summary type="html">循环</summary><published>2024-08-04T03:12:56.671Z</published><updated>2024-08-04T03:12:56.671Z</updated></entry>
+<entry><title>倒反天罡</title><id>1890663106倒反天罡973203526</id><content type="html"><![CDATA[<p>倒反天罡的人格是什么时候形成的呢……</p>
+<p>反而我自己都不知道了</p>
+<p>早就不喜欢安定的生活了罢</p>
+<p>我之前可是那种为了谁会拼上性命的人呐..</p>
+]]></content><summary type="html">倒反天罡</summary><published>2024-08-10T12:25:58.561Z</published><updated>2024-08-10T12:25:58.561Z</updated></entry>
 </feed>
