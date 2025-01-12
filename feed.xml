@@ -3,7 +3,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>喵? 喵!</title>
     <link href="https://raw.githubusercontent.com/LS-KR/feed/master/feed.xml" rel="self"/>
-    <updated>2024-08-26T13:33:48.024Z</updated>
+    <updated>2025-01-12T08:12:05.196Z</updated>
     <id>https://github.com/LS-KR/feed</id>
 
     <author><name>Elihuso Quigley</name></author>
@@ -125,4 +125,16 @@ export function build(title: string, markdown: string): string {
 <p>风庄好像很喜欢收集这些东西呢…<br>只是, 一段时间后这些东西折的折碎的碎……</p>
 <p>放不久的呢……</p>
 ]]></content><summary type="html">挡灾</summary><published>2024-08-26T13:33:48.024Z</published><updated>2024-08-26T13:33:48.024Z</updated></entry>
+<entry><title>quq</title><id>833449362quq15497498</id><content type="html"><![CDATA[<p>可能会用的药:</p>
+<ul>
+<li>劳拉西泮</li>
+<li>文拉法辛</li>
+<li>阿普唑仑</li>
+<li>右佐匹克隆</li>
+<li>思诺思</li>
+<li>喹硫平</li>
+<li>托莫西汀</li>
+</ul>
+<p>暂时留一下x</p>
+]]></content><summary type="html">quq</summary><published>2025-01-12T08:12:05.196Z</published><updated>2025-01-12T08:12:05.196Z</updated></entry>
 </feed>
