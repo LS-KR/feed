@@ -3,7 +3,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>喵? 喵!</title>
     <link href="https://raw.githubusercontent.com/LS-KR/feed/master/feed.xml" rel="self"/>
-    <updated>2025-01-12T08:12:05.196Z</updated>
+    <updated>2025-03-24T12:18:05.067Z</updated>
     <id>https://github.com/LS-KR/feed</id>
 
     <author><name>Elihuso Quigley</name></author>
@@ -137,4 +137,96 @@ export function build(title: string, markdown: string): string {
 </ul>
 <p>暂时留一下x</p>
 ]]></content><summary type="html">quq</summary><published>2025-01-12T08:12:05.196Z</published><updated>2025-01-12T08:12:05.196Z</updated></entry>
+<entry><title>Browser A-Z</title><id>1730072860Browser A-Z225477905</id><content type="html"><![CDATA[<ul>
+<li>A<ul>
+<li>archive.org</li>
+<li>app.element.io</li>
+</ul>
+</li>
+<li>B<ul>
+<li>base64.us</li>
+</ul>
+</li>
+<li>C<ul>
+<li>chatgpt.com</li>
+<li>catppuccin.com</li>
+<li>crowdin.com</li>
+<li>conf.kazv.moe</li>
+</ul>
+</li>
+<li>D<ul>
+<li>drive.google.com</li>
+<li>downdetector.com</li>
+</ul>
+</li>
+<li>E<ul>
+<li>el5.net</li>
+</ul>
+</li>
+<li>F</li>
+<li>G<ul>
+<li>github.com</li>
+<li>google.com</li>
+</ul>
+</li>
+<li>H<ul>
+<li>hack.chat</li>
+</ul>
+</li>
+<li>I<ul>
+<li>icon-sets.iconify.design</li>
+</ul>
+</li>
+<li>J<ul>
+<li>jetbrains.com</li>
+</ul>
+</li>
+<li>K</li>
+<li>L<ul>
+<li>localhost</li>
+</ul>
+</li>
+<li>M<ul>
+<li>mail.google.com</li>
+<li>mirrors.ustc.edu.cn</li>
+</ul>
+</li>
+<li>N<ul>
+<li>new.contabo.com</li>
+</ul>
+</li>
+<li>O<ul>
+<li>one-among.us</li>
+<li>oneamongus.ca</li>
+<li>osu.ppy.sh</li>
+<li>ordr.issou.best</li>
+</ul>
+</li>
+<li>P</li>
+<li>Q</li>
+<li>R<ul>
+<li>regexr.com</li>
+</ul>
+</li>
+<li>S<ul>
+<li>stat.ethz.ch</li>
+</ul>
+</li>
+<li>T<ul>
+<li>twitter.com</li>
+<li>translate.google.com</li>
+<li>twinsherry.github.io</li>
+</ul>
+</li>
+<li>U</li>
+<li>V</li>
+<li>W<ul>
+<li>web.telegram.org</li>
+</ul>
+</li>
+<li>X</li>
+<li>Y</li>
+<li>Z</li>
+</ul>
+]]></content><summary type="html">Browser A-Z</summary><published>2025-03-24T12:18:05.067Z</published><updated>2025-03-24T12:18:05.067Z</updated></entry>
 </feed>
